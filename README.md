@@ -1,4 +1,4 @@
-z# Nilrise Pharma Clone
+# Nilrise Pharma Clone
 
 A responsive pharmaceutical website clone built using **HTML**, **CSS**, and **JavaScript**. The project includes a dashboard-style homepage, product category navigation, a slideshow banner, contact information, doctor contact redirection, and separate catalog pages for dermatology and general antibiotics.
 
